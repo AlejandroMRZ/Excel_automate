@@ -63,7 +63,7 @@ The generated Excel file (`report_month.xlsx`) contains:
 - Automate email notifications with the generated report.
 
 ## Author
-Alejandro
+Alejandro M.
 
 ## License
 This project is open-source and available under the MIT License.
